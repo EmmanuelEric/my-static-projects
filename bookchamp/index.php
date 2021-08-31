@@ -1,3 +1,4 @@
+<?php
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -476,3 +477,4 @@ You can view your total commission per time on your Dashboard. You can also tran
 </body>
 
 </html>
+?>
