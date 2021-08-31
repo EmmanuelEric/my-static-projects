@@ -1,4 +1,42 @@
 <?php
+include_once("assets/css/LineIcons.css");
+include_once("assets/css/bootstrap.min.css");
+include_once("assets/css/default.css");
+include_once("assets/css/magnific-popup.css");
+include_once("assets/css/slick.css");
+include_once("assets/css/style.css");
+include_once("assets/css/style.css.map");
+include_once("assets/fonts/LineIcons.eot");
+include_once("assets/fonts/LineIcons.svg");
+include_once("assets/fonts/LineIcons.ttf");
+include_once("assets/fonts/LineIcons.woff");
+include_once("assets/fonts/LineIcons.woff2");
+include_once("assets/images/slider/1.png");
+include_once("assets/images/slider/2.png");
+include_once("assets/images/slider/3.png");
+include_once("assets/images/Book Champ.jpeg");
+include_once("assets/images/WhatsApp Image 2020-02-20 at 01.30.54.png");
+include_once("assets/images/book Champ(1).png");
+include_once("assets/images/book champ logo 1024*500-1.png");
+include_once("assets/images/book champ logo 1024*500.png");
+include_once("assets/images/book champ logo 4096*2304-1.png");
+include_once("assets/images/book champ logo 4096*2304.png");
+include_once("assets/images/book champ logo 512*512.png");
+include_once("assets/images/book champ.png");
+include_once("assets/js/vendorjquery-1.12.4.min.js");
+include_once("assets/js/vendor/modernizr-3.7.1.min.js");
+include_once("assets/js/ajax-contact.js");
+include_once("assets/js/bootstrap.min.js");
+include_once("assets/js/imagesloaded.pkgd.min.js");
+include_once("assets/js/isotope.pkgd.min.js");
+include_once("assets/js/jquery.easing.min.js");
+include_once("assets/js/jquery.magnific-popup.nim.js");
+include_once("assets/js/main.js");
+include_once("assets/js/popper.min.js");
+include_once("assets/js/scrolling-nav.js");
+include_once("assets/js/slick.min.js");
+?>
+
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -477,4 +515,4 @@ You can view your total commission per time on your Dashboard. You can also tran
 </body>
 
 </html>
-?>
+
