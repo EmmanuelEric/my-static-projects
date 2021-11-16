@@ -81,7 +81,6 @@
                             <ul class="navbar-nav m-auto">
                                 <li class="nav-item active"><a class="page-scroll" href="#home">home</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#services">About</a></li>
-                                <li class="nav-item"><a class="page-scroll" href="#portfolio">Affiliate</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#about">FAQ</a></li>
                             </ul>
                         </div>
@@ -163,7 +162,7 @@
                         <div class="features-content">
                             <p class="text">Book Champ is the brainchild of JVEC Solutions (a tech start-up in the city of Lagos, Nigeria). Book Champ is an educational platform that aims at helping its users to be diverse in knowledge. 
 The platform provides its audience with rich and educative content on eleven (11) categories of knowledge, viz; History, Science, Technology, Sports, Geography, Finance, Socials, Politics, Entertainment, Health, and Lifestyle. As the platform grows, more categories will be added for a richer user experience.
-Our contents contain a minimum of two (2) words (that are not commonly used in everyday communication) and an idiomatic expression or a phrasal verb. This is to help improve the written and spoken English of our audience; our users can get to see the meaning of these words in the context they were used with just a click. These words can also be saved for future reference.</p>
+Our contents contain a minimum of two (2) words (that are not commonly used in everyday communication) and an idiomatic expression or a phrasal verb. This is to help improve the written and spoken English of our audience; our users can get to see the meaning of these words in the context they were used with just a click.</p>
                           
                         </div>
                     </div> <!-- single features -->
@@ -178,9 +177,9 @@ Our contents contain a minimum of two (2) words (that are not commonly used in e
                             </div> -->
                         </div>
                         <div class="features-content">
-                            <p class="text">More on, Book Champ has a Quiz section where users can test themselves on general knowledge. Now, the interesting part – we give cash rewards to our best two (2) users, this happens once weekly. The user with the best score is given #7,000 and the runner-up is gifted #3,000. The idea behind this is to create financial incentives that will encourage people to get back to the reading culture.
-On Book Champ, there are two (2) modes of learning users can choose from - the free and the paid. Our educational contents are free for users but our quiz platform is not. Users will be required to buy a subscription plan to gain access to our quiz section. Subscription plans start from as little as #100.
-</p>
+                            <p class="text">More on, Book Champ has a Quiz section where users can test themselves on general knowledge. We give cash rewards to our best two (2) users, this happens once weekly. The user with the best score is given #7,000 and the runner-up is gifted #3,000. The idea behind this is to create financial incentives that will encourage people to get back to the reading culture.
+
+On Book Champ, there are two (2) modes of learning users can choose from - the free and the paid. Our educational contents are free for users but our quiz platform is not. Users will be required to buy a subscription plan to gain access to our quiz section. Subscription plans start from as little as #100.</p>
                             
                         </div>
                     </div> <!-- single features -->
@@ -195,9 +194,12 @@ On Book Champ, there are two (2) modes of learning users can choose from - the f
                             </div> -->
                         </div>
                         <div class="features-content">
-                            <p class="text">The primary target of the platform is the youthful population. One of the objectives of Book Champ is preparing the youths for Leadership; we believe that ‘Great Leaders are great readers.’ Meaningful change must begin from the mind, hence, we shall create highly engaging contents that would raise the overall productivity of the youths. Also, content that majors in Leadership shall be incorporated into the platform with time. As the platform grows, we shall create content for other age brackets too.
+                            <p class="text">The primary target of the platform is the youthful population. One of the objectives of Book Champ is preparing the youths for Leadership; we believe that ‘Great Leaders are great readers.’ Meaningful change must begin from the mind, hence, we shall create highly engaging contents that would raise the overall productivity of the youths. Also, content that majors in Leadership shall be incorporated into the platform with time. As the platform grows, we shall create content for other age brackets too.
+
 When we talk about ‘Leadership,’ we are not just referring to Political leadership. We believe that leadership begins from the basic unit of every society – the family. Leadership is a fundamental human need and everyone born into this world is a potential leader. Book Champ seeks to raise the next generation of leaders in various industries and human endeavours.
-Book Champ will experience a progressive form of remodeling as we work towards becoming the world’s biggest educational hub. Book Champ is powered by JVEC Solutions (First-class ICT Consultants).
+
+Book Champ will experience a progressive form of remodeling as we work towards becoming the world’s biggest educational hub.
+
 </p>
                          
                         </div>
@@ -215,17 +217,7 @@ Book Champ will experience a progressive form of remodeling as we work towards b
 
     <section id="portfolio" class="portfolio-area portfolio-four pb-100">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-10">
-                    <div class="section-title text-center pb-10">
-                        <h3 class="title">BCAT – Book Champ Affiliate Team</h3>
-                        <p class="text">BCAT is an affiliate program that affords our users the opportunity to earn money while using our platform. It works this way; to become an Affiliate, you are to get a referral code. Afterwards, you are expected to get your friends to sign up on Book Champ using your referral code (there is a field to enter referral codes when signing up).
-Going forward, whenever your friends buy a subscription plan on Book Champ, we will remit 30% of that amount to you. So, doing the Math, for every #100 your friends spend, you get #30, for every #1,000 spent, we give you #300.
-You can view your total commission per time on your Dashboard. You can also transfer your commissions to your bank account when ever you want. Your bank account is credited immediately upon request. The transfer charge for every withdrawal is #10
-</p>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
+           
            
                <hr></hr>
     
@@ -365,7 +357,7 @@ You can view your total commission per time on your Dashboard. You can also tran
                         <span class="mail">care@book-champ.com</span>
                     </div>
                     <div class="copyright text-center mt-35">
-                        <p class="text">&copy; Copyright by JVEC Solutions. </p>
+                        <p class="text"> Copyright &copy; 2021 Bok Champ. </p>
                     </div> <!--  copyright -->
                 </div>
             </div> <!-- row -->
