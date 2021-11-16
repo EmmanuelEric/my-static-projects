@@ -217,9 +217,6 @@ Book Champ will experience a progressive form of remodeling as we work towards b
 
     <section id="portfolio" class="portfolio-area portfolio-four pb-100">
         <div class="container">
-           
-           
-               <hr></hr>
     
     <!--======== ABOUT PART START ======-->
 
@@ -357,7 +354,7 @@ Book Champ will experience a progressive form of remodeling as we work towards b
                         <span class="mail">care@book-champ.com</span>
                     </div>
                     <div class="copyright text-center mt-35">
-                        <p class="text"> Copyright &copy; 2021 Bok Champ. </p>
+                        <p class="text"> Copyright &copy; 2021 Book Champ. </p>
                     </div> <!--  copyright -->
                 </div>
             </div> <!-- row -->
