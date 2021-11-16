@@ -269,108 +269,62 @@ You can view your total commission per time on your Dashboard. You can also tran
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p class="text">No. To gain access to our quiz section, you"ll need to suscribe to "units". Our suscribtion plan starts from 100 for 4 units. New sign-ups are credited with 2 free units.</p>
+                                            <p class="text">No. To gain access to our quiz section, you"ll need to suscribe to "units". Our suscribtion plan starts from #100 for 4 units. New sign-ups are credited with 2 free units.</p>
                                         </div>
                                     </div>
                                 </div> <!-- card -->
-                                <div class="card">
-                                    <div class="card-header" id="headingFore">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFore" aria-expanded="false" aria-controls="collapseFore">How are winners selected on the Ranking page?</a>
+                               <div class="card">
+                                    <div class="card-header" id="headingFour">
+                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Do subscription plan expire?</a>
                                     </div>
-                                    <div id="collapseFore" class="collapse" aria-labelledby="headingFore" data-parent="#accordionExample">
+                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p class="text">No, there is no fixed expiry period of time.</p>
+                                        </div>
+                                    </div>
+                                </div> <!-- card --> 
+                              <div class="card">
+                                    <div class="card-header" id="headingFive">
+                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">How secure is the  payment system for subscription?</a>
+                                    </div>
+                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p class="text">Payments are made through Paystack. Paystack handles payments for over 60,000 businesses. Your payment details are secured with cutting-edge technology..</p>
+                                        </div>
+                                    </div>
+                                </div> <!-- card --> 
+                                <div class="card">
+                                    <div class="card-header" id="headingSix">
+                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">How are winners selected on the Ranking page?</a>
+                                    </div>
+                                    <div id="collapseFore" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                                         <div class="card-body">
                                             <p class="text">The winners are selected by 6pm (GMT+1) on Sundays. In the events of ties, users with earlier submission (date and time of submission) rank higher.</p>
                                         </div>
                                     </div>
                                 </div> <!-- card -->
                                 <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">How are winners contacted?</a>
+                                    <div class="card-header" id="headingSeven">
+                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">How are winners contacted?</a>
                                     </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                                    <div id="collapseFive" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p class="text">Winners are contacted by mails. Our mails are sent by <b>care@book-champ.com</b>. Accout for payment purpose must match your name on the platform.</p>
+                                            <p class="text">Winners are contacted via mail or call. Contact mail: <b>care@book-champ.com</b>, Contact Number:<b>09035778224.</b></p>
                                         </div>
                                     </div>
                                 </div> <!-- card -->
                                 
                                 <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">How many units do i need to play a quiz?</a>
+                                    <div class="card-header" id="headingEight">
+                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">How many units do i need to play a quiz?</a>
                                     </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                                    <div id="collapseFive" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
                                         <div class="card-body">
                                             <p class="text">Every quizing section costs you only 1 unit.</p>
                                         </div>
                                     </div>
                                 </div> <!-- card --> 
-                                
-                                <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">How secure is the payment system for subscription?</a>
-                                    </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p class="text">Payments are made through Paystack. Paystack handles payments for over 60,000 businesses. Your payment details are secured with cutting-edge technology.</p>
-                                        </div>
-                                    </div>
-                                </div> <!-- card --> 
-
-                                <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">Is there any cost associated with being an affiliate?</a>
-                                    </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p class="text">No. There are no cost attached.</p>
-                                        </div>
-                                    </div>
-                                </div> <!-- card --> 
-
-                                <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">How are affiliate rewarded?</a>
-                                    </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p class="text">For every subscription plan your friends buy, we give you a 30% cut. We deduct the transfer charges from your final pay.</p>
-                                        </div>
-                                    </div>
-                                </div> <!-- card --> 
-
-                                <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">How long does it take before i get my commission?</a>
-                                    </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p class="text">Your commissions are transferred immediately upon request.</p>
-                                        </div>
-                                    </div>
-                                </div> <!-- card -->
-
-                                <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">What is the least commission i can request?</a>
-                                    </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p class="text">There's no limit to the amount you can request. </p>
-                                        </div>
-                                    </div>
-                                </div> <!-- card --> 
-
-                                <div class="card">
-                                    <div class="card-header" id="headingFive">
-                                        <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"></a>
-                                    </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p class="text">Winners are contacted by mails. Our mails are sent by <b>care@book-champ.com</b>. Accout for payment purpose must match your name on the platform.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                 <!-- card -->
+                               
                             </div>
                         </div> <!-- faq accordion -->
                     </div> <!-- faq content -->
