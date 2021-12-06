@@ -163,7 +163,7 @@
                         <div class="features-content">
                             <p class="text">Book Champ is the brainchild of JVEC Solutions (a tech start-up in the city of Lagos, Nigeria). Book Champ is an educational platform that aims at helping its users to be diverse in knowledge. 
 The platform provides its audience with rich and educative content on eleven (11) categories of knowledge, viz; History, Science, Technology, Sports, Geography, Finance, Socials, Politics, Entertainment, Health, and Lifestyle. As the platform grows, more categories will be added for a richer user experience.
-Our contents contain a minimum of two (2) words (that are not commonly used in everyday communication) and an idiomatic expression or a phrasal verb. This is to help improve the written and spoken English of our audience; our users can get to see the meaning of these words in the context they were used with just a click. These words can also be saved for future reference.</p>
+Our contents contain a minimum of two (2) words (that are not commonly used in everyday communication) and an idiomatic expression or a phrasal verb. This is to help improve the written and spoken English of our audience; our users can get to see the meaning of these words in the context they were used with just a click.</p>
                           
                         </div>
                     </div> <!-- single features -->
@@ -197,8 +197,7 @@ On Book Champ, there are two (2) modes of learning users can choose from - the f
                         <div class="features-content">
                             <p class="text">The primary target of the platform is the youthful population. One of the objectives of Book Champ is preparing the youths for Leadership; we believe that ‘Great Leaders are great readers.’ Meaningful change must begin from the mind, hence, we shall create highly engaging contents that would raise the overall productivity of the youths. Also, content that majors in Leadership shall be incorporated into the platform with time. As the platform grows, we shall create content for other age brackets too.
 When we talk about ‘Leadership,’ we are not just referring to Political leadership. We believe that leadership begins from the basic unit of every society – the family. Leadership is a fundamental human need and everyone born into this world is a potential leader. Book Champ seeks to raise the next generation of leaders in various industries and human endeavours.
-Book Champ will experience a progressive form of remodeling as we work towards becoming the world’s biggest educational hub. Book Champ is powered by JVEC Solutions (First-class ICT Consultants).
-</p>
+Book Champ will experience a progressive form of remodeling as we work towards becoming the world’s biggest educational hub.</p>
                          
                         </div>
                     </div> <!-- single features -->
