@@ -61,6 +61,10 @@
 
 
 JVEC Solutions is the developer, operator and publisher of online games for the web and mobile, in various platforms and devices. The Company operates, among others, the mobile application for android of the app “Book Champ”, and also the website https://www.book-champ.com.
+                              <div class="features-title-icon d-flex justify-content-between">
+                            <h5 class="features-title"><a href="#">Who are we?</a></h5>
+                           
+                        </div>
                             <h3> <b>Who are we?</b> </h3>
 JVEC Solutions is the developer and operator of the platforms, including website and all services supplied by it (all, the ” Platform”).
 What’s this Privacy Policy about?
