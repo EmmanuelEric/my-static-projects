@@ -82,7 +82,7 @@
                                 <li class="nav-item active"><a class="page-scroll" href="#home">home</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#services">About</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#about">FAQ</a></li>
-                                <li class="nav-item"><a class="page-scroll" href="/my-static-projects/Privacy Policy/index.php">Privacy Policy</a></li>
+                                <li class="nav-item"><a class="page-scroll" href="/my-static-projects/terms/index.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                         
