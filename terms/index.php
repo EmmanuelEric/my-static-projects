@@ -62,14 +62,14 @@
 
 JVEC Solutions is the developer, operator and publisher of online games for the web and mobile, in various platforms and devices. The Company operates, among others, the mobile application for android of the app “Book Champ”, and also the website https://www.book-champ.com.
                               <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
+                        <div class="">
                             <h4 class="features-title">Who are we?</h4>
                            
                         </div>
                         <div class="features-content">
 JVEC Solutions is the developer and operator of the platforms, including website and all services supplied by it (all, the ” Platform”).
  <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
+                        <div class="">
                             <h4 class="features-title">What's this Privacy Policy about?</h4>
                            
                         </div>
@@ -90,7 +90,7 @@ Be advised that under the NDPR, our classification is of a Controller of the Per
 6. We shall keep it secure.</br>
      
      <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
+                        <div class="">
                             <h4 class="features-title">Which information do we collect?</h4>
                            
                         </div>
@@ -98,7 +98,7 @@ Be advised that under the NDPR, our classification is of a Controller of the Per
 
 1. Personal Data
                             <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
+                        <div class="">
                             <h4 class="features-title">How do we use your information?</h4>
                            
                         </div>
@@ -120,7 +120,7 @@ Please be advised as your Personal Data may be kept, processed or transferred to
 We shall retain your Personal Data and activity logs for at least 24 months after the last time you accessed the Services, unless you specifically request us to delete your Personal Data earlier, in such case we will delete it as requested.
 
                             <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
+                        <div class="">
                             <h4 class="features-title">Which information do we share with third parties?</h4>
                            
                         </div>
