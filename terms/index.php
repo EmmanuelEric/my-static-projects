@@ -41,7 +41,7 @@
 
 <section id="services" class="features-area">
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row">
                 <div class="col-lg-6 col-md-10">
                     <div class="section-title text-center pb-10">
                         <h3 class="title">Book Champ Privacy Policy</h3>
