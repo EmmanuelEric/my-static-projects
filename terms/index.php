@@ -80,17 +80,31 @@ We make our best efforts to protect our users’ privacy, and to be compatible w
 We have created this document and our privacy practices with great efforts to comply with the NDPR. Please read this Privacy Policy carefully.
                             For any questions or concerns, please contact us via our email address: info@jvecsolutions.com.</br>
 <b>Consent :
-By using the Platform or allowing someone else to use it on your behalf, you give your consent to our collection, use, disclosure, transfer and storage of any Personal Data and information received by us as a result of such use, in accordance with this Privacy Policy.
-Be advised that under the NDPR, our classification is of a Controller of the Personal Data provided to us by you. As such, we will make our best efforts to make sure that the following shall apply to your Personal Data we hold:</b>
+By using the Platform or allowing someone else to use it on your behalf, you give your consent to our collection, use, disclosure, transfer and storage of any Personal Data and information received by us as a result of such use, in accordance with this Privacy Policy.</b>
+Be advised that under the NDPR, our classification is of a Controller of the Personal Data provided to us by you. As such, we will make our best efforts to make sure that the following shall apply to your Personal Data we hold:
 1. We shall use it lawfully, fairly and transparent.
 2. We shall collect it for specific and legitimate purposes.
 3. We shall limit the amount of Personal Data to be adequate and relevant.
 4. It shall be as accurate and up-to-date as possible.
 5. We shall limit the possibility of your identification to the minimum possible.
 6. We shall keep it secure.
-Which Information do we collect?
+     
+     <div class="single-features mt-40">
+                        <div class="features-title-icon d-flex justify-content-between">
+                            <h4 class="features-title">Which information do we collect?</h4>
+                           
+                        </div>
+                        <div class="features-content">
+
 1. Personal Data
-How do we use your Information?
+                            <div class="single-features mt-40">
+                        <div class="features-title-icon d-flex justify-content-between">
+                            <h4 class="features-title">How do we use your information?</h4>
+                           
+                        </div>
+                        <div class="features-content">
+                            
+
 1. Personal Data
 Any Personal Data we collect is being used in a way that is consistent with this Privacy Policy, and may be used as follows:
 a. Access and Use: Any Personal Data provided to us by you in order to obtain access to any functionality of the Platform may be used by us in order to provide you with access to the required functionality and to monitor your use of such functionality.
@@ -104,7 +118,15 @@ General Terms for Data Transfer
 Please be advised as your Personal Data may be kept, processed or transferred to servers located outside the country that you live in. We shall keep records of all activities relevant to Personal Data transfer, as required by the NDPR. We shall only transfer your Personal Data to companies that apply to the conditions set forth in the NDPR, subject to your consent to this Privacy Policy. Our cloud is hosted by Heroku at the United States, which are in compliance with the NDPR.
 Duration of Data Retention
 We shall retain your Personal Data and activity logs for at least 24 months after the last time you accessed the Services, unless you specifically request us to delete your Personal Data earlier, in such case we will delete it as requested.
-Which Information do we share with Third Parties?
+
+                            <div class="single-features mt-40">
+                        <div class="features-title-icon d-flex justify-content-between">
+                            <h4 class="features-title">Which information do we share with third parties?</h4>
+                           
+                        </div>
+                        <div class="features-content">
+                            
+                           
 1. Personal Data
 We have no intention of selling your Personal Data to any other third party.However, naturally, there are circumstances in which we may disclose, share or transfer your Personal Data, without a further notice, as follows:
 a. Required by Law – If we believe in good faith that disclosure is required by law, including but not limited to, orders by any governmental entity, court or any other judicial entity, in any jurisdiction.
@@ -138,46 +160,6 @@ If you have any questions about this Policy, please contact us at info@jvecsolut
 
 </p>
                           
-                        </div>
-                    </div> <!-- single features -->
-                </div>
-                <div class="col-lg-4 col-md-7 col-sm-9">
-                    <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
-                            <h4 class="features-title"><a href="#">Quiz</a></h4>
-                            <!-- <div class="features-icon">
-                                <i class="lni lni-layout"></i>
-                                <img class="shape" src="assets/images/f-shape-1.svg" alt="Shape">
-                            </div> -->
-                        </div>
-                        <div class="features-content">
-                            <p class="text">More on, Book Champ has a Quiz section where users can test themselves on general knowledge. We give cash rewards to our best two (2) users, this happens once weekly. The user with the best score is given #7,000 and the runner-up is gifted #3,000. The idea behind this is to create financial incentives that will encourage people to get back to the reading culture.
-
-On Book Champ, there are two (2) modes of learning users can choose from - the free and the paid. Our educational contents are free for users but our quiz platform is not. Users will be required to buy a subscription plan to gain access to our quiz section. Subscription plans start from as little as #100.</p>
-                            
-                        </div>
-                    </div> <!-- single features -->
-                </div>
-                <div class="col-lg-4 col-md-7 col-sm-9">
-                    <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
-                            <h4 class="features-title"><a href="#">Leadership</a></h4>
-                            <!-- <div class="features-icon">
-                                <i class="lni lni-bolt"></i>
-                                <img class="shape" src="assets/images/f-shape-1.svg" alt="Shape">
-                            </div> -->
-                        </div>
-                        <div class="features-content">
-                            <p class="text">The primary target of the platform is the youthful population. One of the objectives of Book Champ is preparing the youths for Leadership; we believe that ‘Great Leaders are great readers.’ Meaningful change must begin from the mind, hence, we shall create highly engaging contents that would raise the overall productivity of the youths. Also, content that majors in Leadership shall be incorporated into the platform with time. As the platform grows, we shall create content for other age brackets too.
-
-When we talk about ‘Leadership,’ we are not just referring to Political leadership. We believe that leadership begins from the basic unit of every society – the family. Leadership is a fundamental human need and everyone born into this world is a potential leader. Book Champ seeks to raise the next generation of leaders in various industries and human endeavours.
-
-Book Champ will experience a progressive form of remodeling as we work towards becoming the world’s biggest educational hub.
-
-</p>
-                         
-                        </div>
-                    </div> <!-- single features -->
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
