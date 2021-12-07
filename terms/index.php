@@ -41,7 +41,7 @@
 
 <section id="services" class="features-area">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="section-title text-center pb-10">
                         <h3 class="title">Book Champ Privacy Policy</h3>
@@ -52,7 +52,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-7 col-sm-9">
                     <div class="single-features mt-40">
-                        <div class="features-title-icon d-flex justify-content-between">
+                        <div class="features-title-icon d-flex ">
                             <h4 class="features-title">About BookChamp</h4>
                            
                         </div>
