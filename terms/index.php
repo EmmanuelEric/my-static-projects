@@ -51,8 +51,8 @@
             </div> <!-- row -->
             <div class="row ">
                 <div class="">
-                    <div class="single-features mt-100">
-                        <div class="features-title-icon d-flex justify-content-between">
+                    <div class="single-features mt-40">
+                        <div class="features-title-icon d-flex justify-content-between pb-10">
                             <h4 class="features-title">About BookChamp</h4>
                            
                         </div>
