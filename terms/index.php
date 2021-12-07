@@ -114,9 +114,9 @@ d. Marketing: Any Personal Data provided to us by you may be used by us to conta
 e. Statistics: Any Personal Data provided to us by you may be used by us for statistic reports containing aggregated information.
 2. Non-Personal Data
 Since Non-Personal Data cannot be used to identify you in person, we may use such data in any way permitted by law.
-General Terms for Data Transfer
+                            <b>General Terms for Data Transfer</b>
 Please be advised as your Personal Data may be kept, processed or transferred to servers located outside the country that you live in. We shall keep records of all activities relevant to Personal Data transfer, as required by the NDPR. We shall only transfer your Personal Data to companies that apply to the conditions set forth in the NDPR, subject to your consent to this Privacy Policy. Our cloud is hosted by Heroku at the United States, which are in compliance with the NDPR.
-Duration of Data Retention
+                            <b>Duration of Data Retention</b>
 We shall retain your Personal Data and activity logs for at least 24 months after the last time you accessed the Services, unless you specifically request us to delete your Personal Data earlier, in such case we will delete it as requested.
 
                             <div class="single-features mt-40">
@@ -127,19 +127,19 @@ We shall retain your Personal Data and activity logs for at least 24 months afte
                         <div class="features-content">
                             
                            
-1. Personal Data
+                            <b>1. Personal Data </b>
 We have no intention of selling your Personal Data to any other third party.However, naturally, there are circumstances in which we may disclose, share or transfer your Personal Data, without a further notice, as follows:
 a. Required by Law – If we believe in good faith that disclosure is required by law, including but not limited to, orders by any governmental entity, court or any other judicial entity, in any jurisdiction.
 b. To Prevent Wrongdoing – If we believe in good faith that disclosure is required in order to prevent any kind of illegal activity, fraud or civil wrong.
 c. Business Purposes: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. You acknowledge and agree that any successor to or acquirer of the Company (or its assets) will continue to have the right to use your Personal Data and information in accordance with the terms of this Privacy Policy.
-2. Non-Personal Data
+                            <b>2. Non-Personal Data </b>
 Since Non-Personal Data cannot be used to identify you in person, we may disclose such data in any way permitted by law.
 
 Links to Other Web Sites
 Book Champ may contain links to other websites and/or third-party services. We are not responsible for the privacy policies of such websites and/or services, and we advise you to review their privacy policies.
-Storage and Security
+                            <b>Storage and Security</b>
 We are strongly committed to the protection of your Personal Data and information, and we will take reasonable technical steps, which are accepted in our industry, to keep your Information secured and protect it from loss, misuse or alteration. However, if you notice a risk or any security violations, we advise you to report to us on info@jvecsolutions.com, so we can resolve it as soon as possible.
-Other Terms
+                            <b>Other Terms </b>
 
 1. Changes to This Privacy Policy
 The Platform and our business may change from time to time. As a result, at times, it may be necessary for us to make changes to this Privacy Policy. We reserve the right, in our sole discretion, to update or modify this Privacy Policy at any time (collectively, “Modifications”). Modifications to this Privacy Policy will be displayed by the “Last Updated” date at the top of this Privacy Policy. Please review this Privacy Policy periodically, and especially before you provide any Personal Data or information. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services following the effectiveness of any Modifications to this Privacy Policy constitutes acceptance of those Modifications. If any Modification to this Privacy Policy is not acceptable to you, your sole remedy is to cease accessing, browsing and otherwise using the Platform.
@@ -153,8 +153,8 @@ a. As part of the services, some third party’s advertisements may appear on th
 b. Such third-party services may use Cookies. It is hereby clarified that such services are subject to the third party’s privacy policy and not to this document.
 5. Dispute Resolution:
 The laws of Lagos State shall govern this Privacy Policy. Any dispute which may arise in connection with this Privacy Policy shall be brought to the competent court in Lagos State, Nigeria, which shall be granted exclusive jurisdiction.
-Contact Information
-JVEC Solutions,
+<b>Contact Information
+    JVEC Solutions,</b>
 No. 39, Oluwaseun Street, Ikotun, Lagos, Nigeria.
 If you have any questions about this Policy, please contact us at info@jvecsolutions.com
 
