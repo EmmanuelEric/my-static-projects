@@ -82,7 +82,7 @@ We have created this document and our privacy practices with great efforts to co
 <b>Consent :
 By using the Platform or allowing someone else to use it on your behalf, you give your consent to our collection, use, disclosure, transfer and storage of any Personal Data and information received by us as a result of such use, in accordance with this Privacy Policy.</b></br>
 Be advised that under the NDPR, our classification is of a Controller of the Personal Data provided to us by you. As such, we will make our best efforts to make sure that the following shall apply to your Personal Data we hold:
-1. We shall use it lawfully, fairly and transparent.</br>
+</br>1. We shall use it lawfully, fairly and transparent.</br>
 2. We shall collect it for specific and legitimate purposes.</br>
 3. We shall limit the amount of Personal Data to be adequate and relevant.</br>
 4. It shall be as accurate and up-to-date as possible.</br>
@@ -153,9 +153,9 @@ The Platform and our business may change from time to time. As a result, at time
 </br>b. Such third-party services may use Cookies. It is hereby clarified that such services are subject to the third party’s privacy policy and not to this document.
 </br>5. Dispute Resolution:
 The laws of Lagos State shall govern this Privacy Policy. Any dispute which may arise in connection with this Privacy Policy shall be brought to the competent court in Lagos State, Nigeria, which shall be granted exclusive jurisdiction.
-</br><b>Contact Information
-    JVEC Solutions,</b>
-No. 39, Oluwaseun Street, Ikotun, Lagos, Nigeria.
+</br><b>Contact Information </br>
+    JVEC Solutions,</b> </br>
+No. 39, Oluwaseun Street, Ikotun, Lagos, Nigeria.</br>
 If you have any questions about this Policy, please contact us at info@jvecsolutions.com
 
 </p>
