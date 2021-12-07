@@ -53,7 +53,7 @@
                 <div class="col-lg-4 col-md-7 col-sm-9">
                     <div class="single-features mt-40">
                         <div class="features-title-icon d-flex justify-content-between">
-                            <h4 class="features-title"><a href="#">About BookChamp</a></h4>
+                            <h4 class="features-title">About BookChamp</h4>
                            
                         </div>
                         <div class="features-content">
@@ -62,10 +62,10 @@
 
 JVEC Solutions is the developer, operator and publisher of online games for the web and mobile, in various platforms and devices. The Company operates, among others, the mobile application for android of the app “Book Champ”, and also the website https://www.book-champ.com.
                               <div class="features-title-icon d-flex justify-content-between">
-                            <h5 class="features-title"><a href="#">Who are we?</a></h5>
+                            <h5 class="features-title">Who are we?</h5>
                            
                         </div>
-                            <h3> <b>Who are we?</b> </h3>
+                          
 JVEC Solutions is the developer and operator of the platforms, including website and all services supplied by it (all, the ” Platform”).
 What’s this Privacy Policy about?
 We have created this Privacy Policy because we highly evaluate your Personal Data and information. Please read it, as it includes important information in respect to your Personal Data and information.
