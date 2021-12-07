@@ -73,15 +73,15 @@ JVEC Solutions is the developer and operator of the platforms, including website
                             <h4 class="features-title">What's this Privacy Policy about?</h4>
                            
                         </div>
-                        <div class="features-content">What’s this Privacy Policy about?
+                        <div class="features-content">
 We have created this Privacy Policy because we highly evaluate your Personal Data and information. Please read it, as it includes important information in respect to your Personal Data and information.
 
 We make our best efforts to protect our users’ privacy, and to be compatible with privacy protection laws and regulations, including the Nigerian Data Protection Regulation (the “NDPR”).
 We have created this document and our privacy practices with great efforts to comply with the NDPR. Please read this Privacy Policy carefully.
-For any questions or concerns, please contact us via our email address: info@jvecsolutions.com.
-Consent :
+                            For any questions or concerns, please contact us via our email address: info@jvecsolutions.com.</br>
+<b>Consent :
 By using the Platform or allowing someone else to use it on your behalf, you give your consent to our collection, use, disclosure, transfer and storage of any Personal Data and information received by us as a result of such use, in accordance with this Privacy Policy.
-Be advised that under the NDPR, our classification is of a Controller of the Personal Data provided to us by you. As such, we will make our best efforts to make sure that the following shall apply to your Personal Data we hold:
+Be advised that under the NDPR, our classification is of a Controller of the Personal Data provided to us by you. As such, we will make our best efforts to make sure that the following shall apply to your Personal Data we hold:</b>
 1. We shall use it lawfully, fairly and transparent.
 2. We shall collect it for specific and legitimate purposes.
 3. We shall limit the amount of Personal Data to be adequate and relevant.
