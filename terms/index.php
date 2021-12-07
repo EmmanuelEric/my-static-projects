@@ -68,7 +68,12 @@ JVEC Solutions is the developer, operator and publisher of online games for the 
                         </div>
                         <div class="features-content">
 JVEC Solutions is the developer and operator of the platforms, including website and all services supplied by it (all, the ” Platform”).
-What’s this Privacy Policy about?
+ <div class="single-features mt-40">
+                        <div class="features-title-icon d-flex justify-content-between">
+                            <h4 class="features-title">What's this Privacy Policy about?</h4>
+                           
+                        </div>
+                        <div class="features-content">What’s this Privacy Policy about?
 We have created this Privacy Policy because we highly evaluate your Personal Data and information. Please read it, as it includes important information in respect to your Personal Data and information.
 
 We make our best efforts to protect our users’ privacy, and to be compatible with privacy protection laws and regulations, including the Nigerian Data Protection Regulation (the “NDPR”).
