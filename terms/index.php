@@ -49,8 +49,8 @@
                     </div> <!-- row -->
                 </div>
             </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-7 col-sm-9">
+            <div class="row ">
+                <div class="">
                     <div class="single-features mt-40">
                         <div class="features-title-icon d-flex justify-content-between">
                             <h4 class="features-title">About BookChamp</h4>
